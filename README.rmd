@@ -11,6 +11,6 @@ The competition had have more intrinsic data about animals. Weight lenght, healt
 Althought our size information does not improve variability too much. Mixing with information of dogs groups(Terrier, toy, sport) may have improvement in the model.
 
 ![Sizes](https://raw.githubusercontent.com/oristides/ShelterModel/master/plot_Size_png.png)
-
+![Sizesjitter](https://raw.githubusercontent.com/oristides/ShelterModel/master/plot_Age_jitter_png.png)
 
 
