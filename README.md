@@ -1,5 +1,5 @@
 # ShelterModel
-Solution for Kaggel Shelter Animal Outcomes https://www.kaggle.com/c/shelter-animal-outcomes
+Solution for Kaggel [Shelter Animal Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes)
 
 This is a Repo Using de clean Function from https://github.com/fhlgood/K_sa And others featuring introducing Sizes of dogs and dividing Dogs Breeds. The logloss was 0.82. Worse than the best LB that was 0.72 but taking account Time and hours is nonsense Because it have to much predicitve value but too low practical value. So I will not work any more.
 
@@ -11,4 +11,4 @@ The original competition had have more intrinsic data about animals. Weight leng
 Althought our size information does not improve variability too much. Using information of Groups of dogs( Terrier, toy) may have improvement in the model.
 
 
-ShelterModel/plot_Size_png.png 
+
